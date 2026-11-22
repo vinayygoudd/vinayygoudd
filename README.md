@@ -4,7 +4,7 @@
 
 ### Data Analytics | Data Science | Artificial Intelligence
 
-Computer Science & Engineering Graduate | GATE 2026 DA Qualified
+Computer Science & Engineering Graduate 
 
 Exploring the intersection of Data, Statistics, Machine Learning and Artificial Intelligence.
 
