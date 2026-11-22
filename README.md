@@ -72,20 +72,7 @@ Exploring the intersection of Data, Statistics, Machine Learning and Artificial 
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vinayygoudd&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayygoudd&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=vinayygoudd&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<div align="center">
 
 ### 💡 Learn. Build. Explore. Repeat.
 
